@@ -9,7 +9,7 @@ function Clients() {
         {/* First client testimonial */}
         <div className="bg-purple-100 max-w-5xl w-full p-8 rounded-lg shadow-lg mx-auto relative flex items-center">
           <div className="absolute top-2 right-2 bg-white px-3 py-1 rounded-full shadow-md text-sm font-semibold">
-            Palak Badlani
+            Vinisha
           </div>
           <img
             style={{
@@ -85,8 +85,8 @@ function Clients() {
 
         {/* Third client testimonial */}
         <div className="bg-gray-100 max-w-5xl w-full p-8 rounded-lg shadow-lg mx-auto relative flex items-center">
-          <div className="absolute top-2 left-2 bg-white px-3 py-1 rounded-full shadow-md text-sm font-semibold">
-            Palak Badlani
+          <div className="absolute top-2 right-2 bg-white px-3 py-1 rounded-full shadow-md text-sm font-semibold">
+            Piyaaa
           </div>
           <img
             src="images/client3.jpg"
